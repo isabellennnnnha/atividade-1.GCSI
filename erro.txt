@@ -2,4 +2,5 @@ Este arquivo foi criado para a atividade.
 
 Aqui podem ser registrados erros encontrados durante o desenvolvimento.
 
+Tivemos apenas erros de digitação 
 
