@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para praticar comandos do Git e publicação de pr
 ## Tecnologias utilizadas
 
 - HTML
-- CSS
+- CSS 
 - JavaScript
 - Git
 - GitHub
