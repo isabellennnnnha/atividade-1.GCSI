@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para praticar comandos do Git e publicação de pr
 - HTML
 - CSS 
 - JavaScript
-- Git
+- Git 
 - GitHub
 
 ## Funcionalidades
